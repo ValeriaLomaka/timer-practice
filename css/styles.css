@@ -4,7 +4,7 @@ body{
 }
 
 .background-image{
-    background-image:linear-gradient(rgba(102, 102, 111, 0.7),rgba(149, 149, 152, 0.7)), url('/img/newyear.jpg');
+    background-image:linear-gradient(rgba(102, 102, 111, 0.53),rgba(149, 149, 152, 0.496)), url('/img/newyear.jpg');
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
